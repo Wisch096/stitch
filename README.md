@@ -109,7 +109,3 @@ The project includes the following CRUD functionalities:
 4. Use tools like Postman or cURL to test the CRUD functionalities.
 
 This project showcases a robust CRUD application built using Spring Boot and Spring Data JPA. It includes advanced features like custom queries, entity relationships, and comprehensive CRUD operations. The project provides a solid foundation for creating similar applications and demonstrates strong proficiency in Java web development.
-
-For any further inquiries or discussions, feel free to reach out.
-
-Happy coding!
